@@ -17,9 +17,3 @@ import { useState } from "react";
 }
 
 export default NavigationBar;
-
-// export const notnav = () => {
-//   return (
-//     <div>notnav</div>
-//   )
-// }
