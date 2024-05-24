@@ -15,12 +15,12 @@ const Home = () => {
         <div className="row">
           <div className="col-sm-5">
             <div className="imgsec">
-              <img
+              {/* <img
                 src={profileimg}
                 data-aos="flip-right"
                 alt="Pooja Garva"
                 className="img-fluid"
-              />
+              /> */}
               <div className="socialmedia">
                 <a
                   href="https://www.linkedin.com/in/poojagarva/"
@@ -76,8 +76,8 @@ const Home = () => {
           </div>
           <div className="col-sm-5 offset-sm-2">
             <div className="rightcontent" data-aos="fade-right">
-              <h1>Pooja Garva</h1>
-              <h2>Software Engineer</h2>
+              <h1>Shaheem Salie</h1>
+              {/* <h2></h2> */}
               <br />
               <div className="row">
                 <div className="col-sm-4 col-6">
